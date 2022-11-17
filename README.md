@@ -4,13 +4,13 @@
 - Uma aplicação web que o intuito é simular um cardápio e um carrinho de compras de uma hamburgueria.
 
 ## 💻 Tecnologia
-- Axios
-- Styled Components
-- React Toastify
-- React JS
+- React JS.
 
 ## 🔮 Bibliotecas
-- Animate CSS
+- Animate CSS.
+- Axios.
+- Styled Components.
+- React Toastify.
  
 ## 🔆 Algumas Funcionalidades
 - Adicionar e remover um item ao carrinho de compras.
